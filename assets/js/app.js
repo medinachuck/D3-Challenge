@@ -1,4 +1,4 @@
-// 
+// // Set SVG parameters
 var svgWidth = 960;
 var svgHeight = 500;
 
